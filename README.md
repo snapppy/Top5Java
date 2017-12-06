@@ -1,4 +1,5 @@
 # Top5Java
+<img src='https://github.com/snapppy/Top5Java/blob/master/videosample.gif'>
 Code provided to go along with the video
 
 # To practice with the code
