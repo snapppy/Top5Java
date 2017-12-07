@@ -1,5 +1,6 @@
 # Top5Java
 [![words here](https://github.com/snapppy/Top5Java/blob/master/videosample.gif)](https://www.youtube.com/watch?v=5ApeBo1LujE)
+<br>
 Code provided to go along with the video
 
 # To practice with the code
