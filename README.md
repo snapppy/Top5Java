@@ -1,5 +1,5 @@
 # Top5Java
-<img src='https://github.com/snapppy/Top5Java/blob/master/videosample.gif'>
+[![words here](https://github.com/snapppy/Top5Java/blob/master/videosample.gif)](https://www.youtube.com/watch?v=5ApeBo1LujE)
 Code provided to go along with the video
 
 # To practice with the code
